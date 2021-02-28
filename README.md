@@ -1,1 +1,2 @@
 # Pycharmed
+print("aou")
